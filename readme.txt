@@ -20,10 +20,10 @@ If you are running a woocommerce based shopping site Comparis is the ideal solut
 
 A premium theme is made by this plugin:
 
-https://uouapps.com/downloads/comparis-price-comparison-wordpress-theme/
+http://uouapps.myshopify.com/collections/frontpage/products/comparis-price-comparison-wordpress-theme
 
 
-The features are offered by BRS:
+The features are offered by Comapris:
 
 *	Built with WooCommerce
 *	Responsive design & better compatible with twitter bootstrap based theme -tested with "twenty fourteen" & "twenty thirteen theme"
