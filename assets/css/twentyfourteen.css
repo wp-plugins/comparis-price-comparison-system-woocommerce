@@ -1,0 +1,4 @@
+.nav{margin:0;}
+.white-container .widget-title{color:#303c42;}
+.align-center{text-align:center;}
+@media(min-width:768px){.container{margin-left:222px;}.theme-hack .page-content{max-width:100%;margin:0}}

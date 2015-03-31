@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UouApps/uou_comparis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-29 17:20+0600\n"
+"PO-Revision-Date: 2014-10-29 17:20+0600\n"
+"Last-Translator: UouApps <uouapps@live.it>\n"
+"Language-Team: Faysal Haque <faysal.haque@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comparis-plugin.php:269
+msgid ""
+"Please Install WooCommerce first before activating the Comparis Plugin. You "
+"can download WooCommerce from <a href=\"http://wordpress.org/plugins/"
+"woocommerce/\">here</a>."
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:55
+msgid "Store Name"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:56
+msgid "Assign your product to a specific store"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:69
+#: ../includes/class-ucp-post-type.php:71 ../includes/ucp-functions.php:314
+msgid "Product Categories"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:72
+msgid "Product Category"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:74
+msgid "Search Product Categories"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:75
+msgid "All Product Categories"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:76
+msgid "Parent Product Category"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:77
+msgid "Parent Product Category:"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:78
+msgid "Edit Product Category"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:79
+msgid "Update Product Category"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:80
+msgid "Add New Product Category"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:81
+msgid "New Product Category Name"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:104
+msgid "Category Icon"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:105
+msgid ""
+"Add font awseome icon like: <span style=\"color:green;\">\"fa-bicycle\"</"
+"span>"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:123
+msgid "Brand Image"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:124
+msgid "Featured Author Image"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:172
+#: ../includes/class-ucp-post-type.php:283
+msgid "Image"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:173
+msgid "Icon"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:174
+#: ../includes/class-ucp-post-type.php:284
+msgid "Name"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:175
+#: ../includes/class-ucp-post-type.php:285
+msgid "Description"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:176
+#: ../includes/class-ucp-post-type.php:286
+msgid "Slug"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:177
+msgid "Count"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:193
+msgid "Store URL"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:194
+msgid "Store main website URL"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:198
+msgid "Country Name "
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:201
+msgid "Country"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:204
+msgid "Region Name"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:207
+msgid "Region"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:210
+msgid "Address Name"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:213
+msgid "Address"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:216
+msgid "Zip Code of Region"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:219
+msgid "ZIP codes"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:235
+#: ../includes/class-ucp-post-type.php:239
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:242
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:246
+msgid "longitude"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:287
+msgid "Items"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:294
+msgid "Store Image"
+msgstr ""
+
+#: ../includes/class-ucp-post-type.php:302
+msgid "Store name"
+msgstr ""
+
+#: ../includes/ucp-functions.php:22
+msgid "Product Search"
+msgstr ""
+
+#: ../includes/ucp-functions.php:56
+msgid "Filter Results"
+msgstr ""
+
+#: ../includes/ucp-functions.php:60
+msgid "Price Range"
+msgstr ""
+
+#: ../includes/ucp-functions.php:64
+msgid "1"
+msgstr ""
+
+#: ../includes/ucp-functions.php:65
+msgid "500000"
+msgstr ""
+
+#: ../includes/ucp-functions.php:90 ../includes/ucp-functions.php:146
+#: ../templates/archive-product.php:39 ../templates/taxonomy-brand.php:35
+#: ../templates/taxonomy-product_cat.php:35
+msgid "Available Products"
+msgstr ""
+
+#: ../includes/ucp-functions.php:114
+#: ../templates/woocommerce/content-product.php:81
+#: ../templates/woocommerce/single-product/title.php:13
+msgid "Compare Price"
+msgstr ""
+
+#: ../includes/ucp-functions.php:126
+msgid "Sort By"
+msgstr ""
+
+#: ../includes/ucp-functions.php:127
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../includes/ucp-functions.php:128
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../includes/ucp-functions.php:139
+msgid "Sorry! No post found!"
+msgstr ""
+
+#: ../includes/ucp-functions.php:150
+msgid ""
+"Unfortunately there is no product available for your searching criteria."
+msgstr ""
+
+#: ../includes/ucp-functions.php:307
+msgid "Brands"
+msgstr ""
+
+#: ../includes/ucp-functions.php:317
+msgid "Product Subcategories : "
+msgstr ""
+
+#: ../includes/ucp-functions.php:339
+msgid "Compare : "
+msgstr ""
+
+#: ../includes/ucp-functions.php:346
+msgid "Shop "
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/cuztom.class.php:157
+msgid "Use of a reserved term."
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/field.class.php:164
+msgid "Save"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:46
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:82
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:148
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:208
+#: ../includes/vendor/cuztom/classes/fields/tab.class.php:51
+#: ../includes/vendor/cuztom/classes/meta.class.php:96
+msgid "Add"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:94
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:160
+#: ../includes/vendor/cuztom/classes/fields/bundle.class.php:220
+msgid "This input type doesn't support the bundle functionality (yet)."
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/file.class.php:35
+msgid "Select file"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/file.class.php:36
+#: ../includes/vendor/cuztom/cuztom.php:202
+msgid "Remove current file"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/image.class.php:29
+msgid "Select image"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/image.class.php:30
+#: ../includes/vendor/cuztom/cuztom.php:201
+msgid "Remove current image"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/yesno.class.php:17
+msgid "Yes"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/fields/yesno.class.php:20
+msgid "No"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/meta/meta_box.class.php:167
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:176
+msgid "Date"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:77
+#: ../includes/vendor/cuztom/classes/post_type.class.php:96
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:110
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:118
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:78
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:103
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:80
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:108
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:81
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:106
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:82
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:83
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:84
+#, php-format
+msgid "%s Archive"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:85
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:102
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:86
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:87
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/post_type.class.php:88
+#, php-format
+msgid "%s Parent"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:104
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:105
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:107
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:109
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../includes/vendor/cuztom/classes/taxonomy.class.php:233
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: ../templates/compare-single-product.php:90
+msgid "You are searching for:"
+msgstr ""
+
+#: ../templates/compare-single-product.php:98
+msgid "Product"
+msgstr ""
+
+#: ../templates/compare-single-product.php:99
+msgid "Retailer"
+msgstr ""
+
+#: ../templates/compare-single-product.php:100
+msgid "Price"
+msgstr ""
+
+#: ../templates/taxonomy-brands.php:25
+msgid "Available Brands"
+msgstr ""
+
+#: ../templates/taxonomy-brands.php:52
+#: ../templates/taxonomy-product-categories.php:73
+#: ../templates/taxonomy-product-sub-categories.php:81
+#: ../templates/taxonomy-product-sub-categories.php:116
+msgid "Browse"
+msgstr ""
+
+#: ../templates/taxonomy-product-categories.php:25
+msgid "Available Categories"
+msgstr ""
+
+#: ../templates/taxonomy-product-sub-categories.php:27
+msgid "Available Sub Categories"
+msgstr ""
+
+#: ../templates/woocommerce/single-product/product-image.php:38
+msgid "Placeholder"
+msgstr ""
+
+#: ../templates/woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
